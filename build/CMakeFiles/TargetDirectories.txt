@@ -1,0 +1,3 @@
+/home/meteor/my_projects/CliFinanceTracker/build/CMakeFiles/cli_finance_tracker.dir
+/home/meteor/my_projects/CliFinanceTracker/build/CMakeFiles/edit_cache.dir
+/home/meteor/my_projects/CliFinanceTracker/build/CMakeFiles/rebuild_cache.dir
