@@ -48,6 +48,7 @@
 ```bash
    git clone [https://github.com/Meteor337/CLI_finance-tracker.git](https://github.com/Meteor337/CLI_finance-tracker.git)
    cd CLI_finance-tracker
+
 ```
 
 2. Скомпилируйте код с помощью компилятора C++:
