@@ -45,14 +45,14 @@
 ## Установка и запуск
 
 1. Склонируйте репозиторий или скачайте исходный код:
-   ```bash
-   git clone [https://github.com/your-username/CLI_finance-tracker.git](https://github.com/your-username/CLI_finance-tracker.git)
+```bash
+   git clone [https://github.com/Meteor337/CLI_finance-tracker.git](https://github.com/Meteor337/CLI_finance-tracker.git)
    cd CLI_finance-tracker
 ```
 
 2. Скомпилируйте код с помощью компилятора C++:
 ```bash
-g++ -std=c++23 main.cpp -o CLI_finance_tracker
+g++ -std=c++23 CLI_finance_tracker.cpp -o CLI_finance_tracker
 
 ```
 
