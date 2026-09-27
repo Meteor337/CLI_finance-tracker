@@ -53,7 +53,7 @@
 
 2. Скомпилируйте код с помощью компилятора C++:
 ```bash
-g++ -std=c++23 CLI_finance_tracker.cpp -o CLI_finance_tracker
+g++ -std=c++23 CLI_finance-tracker.cpp -o CLI_finance_tracker
 
 ```
 
